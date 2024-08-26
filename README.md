@@ -9,7 +9,7 @@
 <li><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></li>
 </ul><br/>
 <h2>✍ 프로젝트 UI</h2>
-
+<img src="images/UI.png">
 <h2>history</h2>
 <ol>
 <li>0826 - 마크업 , 스타일 적용</li>
